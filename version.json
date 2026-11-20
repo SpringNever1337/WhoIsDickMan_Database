@@ -1,9 +1,9 @@
 {
-  "versionCode": 332,
-  "versionName": "3.3.2",
+  "versionCode": 30303,
+  "versionName": "3.3.3",
   "update_mode": 0,
   "relay_url": "https://dickontop-relay.springnever1337.workers.dev",
   "relay_key": "35aad07556a9ec46bb126c52b8bb7d6c",
   "releaseUrl": "https://github.com/SpringNever1337/WhoIsDickMan_Database/releases/latest",
-  "notes": "【DickOnTop 2026-11-03 更新】\n网页版 v17 / APK 3.3.2\n1. 自动获取当前校区随机打卡点，支持刷新与覆盖校验\n2. 移除 AI 自动绘图，新增圆形/矩形/椭圆/三角形/五角星图形工具\n3. 图形可拖动整体移动、绿点缩放、蓝点旋转，实时更新路线和长度\n4. 新图形自动连接上一段末端，修复连接处空段\n5. 取消 100–800m 尺寸限制，最小 0.1m，缩放精度 0.1m，超大图形滑块自动扩展\n6. 尺寸与路线长度支持小数显示\n7. 发现新版本后先显示更新内容，点击按钮再跳转 Release\n网页版 v17 已上线，APK 3.3.2 已上传 Release。"
+  "notes": "【DickOnTop 2026-11-21 更新】\nAPK 3.3.3\n1. 被封禁账号启动时显示黑色页面和红色封禁提示，3 秒后退出\n2. 新增签名校验、反调试、反注入，传输只信任系统 CA，防抓包\n3. 管理员封禁 / 解除封禁成功后弹窗确认\n4. 榜单状态标签改为「正常 / 封禁」，点击后弹出确认框再执行\n5. 「联系开发者」改为直接提交，不需要 GitHub 账号，同一设备 10 分钟内限一次\n6. 榜单底部说明改为「用户只能看到其他人的昵称和公里数」\n7. 开发者账号登录不再显示启动提示和免责声明\n安装包在 Release 页面，覆盖安装即可，无需卸载。"
 }
