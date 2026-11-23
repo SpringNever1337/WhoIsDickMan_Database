@@ -6,5 +6,9 @@
   "ldplayerUrl": "https://lddl01.ldmnq.com/download/leidian14/ldinst_14.0.37.0.exe",
   "activatePlatform": "闲鱼",
   "activateAccount": "xD1337",
-  "notes": "【DickOnTop 2026-11-23 更新】\nAPK 3.3.6\n1. 新增账号激活机制：新注册账号默认未激活，登录后显示锁定页，需管理员激活后方可使用全部功能；未激活账号不出现在普通用户排行榜\n2. 排行榜新增激活 / 取消激活按钮，仅开发者账号可见并可操作\n3. 未激活提示中的平台与搜索词改由 version.json 下发（activatePlatform / activateAccount），后续调整无需重新发版\n4. 激活相关提示与错误信息统一为正式书面表述\n5. 接入 dpt-shell 加固：DEX 加密、运行时完整性校验与反调试检测，提升反编译与二次打包难度\n安装包在 Release 页面，覆盖安装即可，无需卸载。"
+  "notes": "【DickOnTop 2026-11-23 更新】\nAPK 3.3.6\n1. 新增账号激活机制：新注册账号默认未激活，登录后显示锁定页，需管理员激活后方可使用全部功能；未激活账号不出现在普通用户排行榜\n2. 排行榜新增激活 / 取消激活按钮，仅开发者账号可见并可操作\n3. 未激活提示中的平台与搜索词改由 version.json 下发（activatePlatform / activateAccount），后续调整无需重新发版\n4. 激活相关提示与错误信息统一为正式书面表述\n5. 接入 dpt-shell 加固：DEX 加密、运行时完整性校验与反调试检测，提升反编译与二次打包难度\n安装包在 Release 页面，覆盖安装即可，无需卸载。",
+  "noticeEnabled": true,
+  "noticeTitle": "公告",
+  "noticeId": "20261123-1",
+  "notice": "欢迎使用 DickOnTop。\n近期更新了账号激活与公告功能，遇到问题可在闲鱼搜索「xD1337」联系管理员。"
 }
