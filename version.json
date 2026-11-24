@@ -1,13 +1,13 @@
 {
-  "versionCode": 30307,
-  "versionName": "3.3.7",
+  "versionCode": 30308,
+  "versionName": "3.3.8",
   "update_mode": 1,
   "releaseUrl": "https://github.com/SpringNever1337/WhoIsDickMan_Database/releases/latest",
   "ldplayerUrl": "https://lddl01.ldmnq.com/download/leidian14/ldinst_14.0.37.0.exe",
-  "inactiveNotice": "请在闲鱼APP搜索用户[xD1337]，联系该用户以激活该APP四年使用权",
-  "notes": "【DickOnTop 2026-11-23 更新】\nAPK 3.3.7\n1.修复了已知的重要BUG",
+  "inactiveNotice": "如需帮助，可在闲鱼搜索「xD1337」联系管理员。",
+  "notes": "【DickOnTop 2026-11-24 更新】\nAPK 3.3.8\n1. 网络判断放宽：连接 Wi-Fi、移动流量（4G/5G）、有线网络任意一种即可进入软件\n2. 只有完全没有任何可用网络时才直接退出\n3. PC 启动器同步更新：启动前清理 adb 和残留模拟器实例\n安装包在 Release 页面，覆盖安装即可，无需卸载。",
   "noticeEnabled": true,
   "noticeTitle": "公告",
   "noticeId": "20261123-3",
-  "notice": "欢迎使用 DickOnTop。\n如您在使用此软件过程中遇到了任何问题，请在[我的]-----[联系开发者]中提交您的问题。"
+  "notice": "欢迎使用 DickOnTop。\n近期更新了账号激活与公告功能，遇到问题可在闲鱼搜索「xD1337」联系管理员。"
 }
