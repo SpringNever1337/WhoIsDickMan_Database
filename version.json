@@ -6,7 +6,7 @@
   "ldplayerUrl": "https://lddl01.ldmnq.com/download/leidian14/ldinst_14.0.37.0.exe",
   "inactiveNotice": "请在闲鱼APP，搜索用户[xD1337]，联系该用户取得软件激活",
   "notes": "【DickOnTop 2026-11-25 更新】\nAPK 3.3.9\n1. 修复了打开软件闪退的问题。",
-  "noticeEnabled": true,
+  "noticeEnabled": false,
   "noticeTitle": "公告",
   "noticeId": "20261125-4",
   "notice": "欢迎使用 DickOnTop。\n如您在使用该程序遇到任何问题，请点击[我的]--[联系开发者]中取得帮助 :) \n祝您生活愉快 xD"
