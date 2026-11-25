@@ -4,10 +4,9 @@
   "update_mode": 1,
   "releaseUrl": "https://github.com/SpringNever1337/WhoIsDickMan_Database/releases/latest",
   "ldplayerUrl": "https://lddl01.ldmnq.com/download/leidian14/ldinst_14.0.37.0.exe",
-  "inactiveNotice": "如需帮助，可在闲鱼搜索「xD1337」联系管理员。",
-  "notes": "【DickOnTop 2026-11-25 更新】\nAPK 3.3.9\n1. 修复 Wi-Fi / 移动流量误判：冷启动、刚解锁、Wi-Fi 重连时先重试约 6 秒，不再一启动就退出\n2. 网络判断改为多信号：Wi-Fi、移动流量、有线、VPN、蓝牙共享任意一种可用即放行；查询失败也放行\n3. 只有连续多次确认完全没有任何网络连接时才退出\n4. APK 增加代码混淆与加固（类名/方法名混淆 + 运行时加固），体积略有变化\n5. PC 启动器版本号同步为 3.3.9\n安装包在 Release 页面，覆盖安装即可，无需卸载。",
+  "inactiveNotice": "请在闲鱼APP，搜索用户[xD1337]，联系该用户取得软件激活",
+  "notes": "【DickOnTop 2026-11-25 更新】\nAPK 3.3.9\n1. 修复了打开软件闪退的问题。",
   "noticeEnabled": true,
   "noticeTitle": "公告",
-  "noticeId": "20261123-3",
-  "notice": "欢迎使用 DickOnTop。\n近期更新了账号激活与公告功能，遇到问题可在闲鱼搜索「xD1337」联系管理员。"
-}
+  "noticeId": "20261125-4",
+  "notice": "欢迎使用 DickOnTop。\n如您在使用该程序遇到任何问题，请点击[我的]--[联系开发者]中取得帮助 :) \n祝您生活愉快 xD"
